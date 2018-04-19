@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d9d180-94e8-4169-b073-ae59750c5210" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/divdeconquerMaxSubArray/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mostEffecientMaxSubArray/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,8 +59,8 @@
       <file leaf-file-name="mostEffecientMaxSubArray.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -212,17 +208,17 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="148" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="147" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="148" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="147" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="145" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="144" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="145" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="145" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="148" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="147" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="148" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="147" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="147" />
   </component>
   <component name="RunDashboard">
@@ -363,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523922988005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more checkin">
+      <created>1524097554494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524097554494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -374,10 +377,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5024077" side_tool="true" visible="true" weight="0.3964497" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919742" weight="0.1617357" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50160515" side_tool="true" visible="true" weight="0.32544377" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49839488" visible="true" weight="0.32544377" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4975923" visible="true" weight="0.3964497" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975923" weight="0.3964497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -396,7 +399,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="check in the brute force method" />
-    <option name="LAST_COMMIT_MESSAGE" value="check in the brute force method" />
+    <MESSAGE value="more checkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="more checkin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -592,8 +596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
