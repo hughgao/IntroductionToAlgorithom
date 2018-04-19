@@ -8,7 +8,7 @@ def max_sub_array(input: List)-> Tuple[int, int, int]:
     total: int = input[0]
     start_index: int = 0
     end_index: int = 0
-    for index in range(1,len(input)):
+    for index in range(1, len(input)):
         if total < 0:
             start_index = index
             total = input[index]
