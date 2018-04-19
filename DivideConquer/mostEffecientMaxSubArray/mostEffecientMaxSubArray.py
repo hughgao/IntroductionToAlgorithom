@@ -1,6 +1,6 @@
 from typing import Tuple,List
 
-
+'''the complexity is o(n)'''
 def max_sub_array(input: List)-> Tuple[int, int, int]:
     max_so_far: int = input[0]
     total: int = input[0]
