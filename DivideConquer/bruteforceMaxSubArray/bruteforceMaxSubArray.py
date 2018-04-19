@@ -2,7 +2,7 @@ import sys
 from typing import Tuple, List
 
 
-def brute_force_max_sub_array(the_array: List):
+def brute_force_max_sub_array(the_array: List)->Tuple[int, int, int]:
 
     maximum = -sys.maxsize - 1
     the_result: Tuple[int, int, int] = (0, 0, maximum)

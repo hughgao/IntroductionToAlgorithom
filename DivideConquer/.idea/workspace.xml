@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d9d180-94e8-4169-b073-ae59750c5210" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bruteforceMaxSubArray/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divdeconquerMaxSubArray/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostEffecientMaxSubArray/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,35 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/dbm/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3145">
-              <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
-              <folding>
-                <element signature="e#1150#1159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5692">
-              <folding>
-                <element signature="e#22#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basecommand.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/basecommand.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -50,7 +30,7 @@
       <file leaf-file-name="check.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/commands/check.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="102">
               <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -59,16 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="bruteforceMaxSubArray.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bruteforceMaxSubArray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -76,17 +51,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="divideconquerMaxSubArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-533">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mostEffecientMaxSubArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="typing.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5573">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="base_events.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/base_events.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2429">
+            <state relative-caret-position="578">
               <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
             </state>
           </provider>
@@ -95,7 +95,7 @@
       <file leaf-file-name="__main__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-86">
+            <state>
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -105,9 +105,7 @@
       </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/vcs/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5828" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -126,6 +124,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py" />
+        <option value="$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py" />
+        <option value="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" />
       </list>
     </option>
   </component>
@@ -141,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +152,16 @@
               <item name="DivideConquer" type="b2602c69:ProjectViewProjectNode" />
               <item name="DivideConquer" type="462c0819:PsiDirectoryNode" />
               <item name="bruteforceMaxSubArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DivideConquer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DivideConquer" type="462c0819:PsiDirectoryNode" />
+              <item name="divdeconquerMaxSubArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DivideConquer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DivideConquer" type="462c0819:PsiDirectoryNode" />
+              <item name="mostEffecientMaxSubArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DivideConquer" type="b2602c69:ProjectViewProjectNode" />
@@ -195,6 +204,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bruteforceMaxSubArray">
+  <component name="RunManager" selected="Python.mostEffecientMaxSubArray">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DivideConquer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,13 +292,53 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="divideconquerMaxSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DivideConquer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/divdeconquerMaxSubArray" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mostEffecientMaxSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DivideConquer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mostEffecientMaxSubArray" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.abc" />
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python.bruteforceMaxSubArray" />
+      <item itemvalue="Python.divideconquerMaxSubArray" />
+      <item itemvalue="Python.mostEffecientMaxSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mostEffecientMaxSubArray" />
+        <item itemvalue="Python.divideconquerMaxSubArray" />
         <item itemvalue="Python.bruteforceMaxSubArray" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.abc" />
@@ -306,34 +356,47 @@
       <option name="presentableId" value="Default" />
       <updated>1523915329795</updated>
     </task>
+    <task id="LOCAL-00001" summary="check in the brute force method">
+      <created>1523922988005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523922988005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="620" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50160515" side_tool="true" visible="true" weight="0.13609467" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49839488" visible="true" weight="0.13609467" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49919742" weight="0.1617357" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959871" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5024077" side_tool="true" visible="true" weight="0.3964497" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49919742" weight="0.1617357" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4975923" visible="true" weight="0.3964497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919742" weight="0.3984221" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check in the brute force method" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in the brute force method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -347,13 +410,71 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/commands/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/dbm/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
+        <state relative-caret-position="3094">
+          <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
           <folding>
-            <element signature="e#44#82#0" expanded="true" />
+            <element signature="e#1150#1159#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/basecommand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/commands/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/vcs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/commands/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/collections/__init__.py">
@@ -384,15 +505,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/_weakrefset.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/dbm/gnu.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/dbm/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
+        <state relative-caret-position="3094">
           <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
           <folding>
             <element signature="e#1150#1159#0" expanded="true" />
@@ -409,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/commands/check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="102">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -418,20 +533,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/asyncio/base_events.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2429">
+        <state relative-caret-position="578">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
+        <state>
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -439,29 +552,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/vcs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/826228823/sys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5828" />
+        <state relative-caret-position="-2020" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5573">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../tools/Python/Python36/Lib/site-packages/pip/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5692">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#22#60#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteforceMaxSubArray/bruteforceMaxSubArray.py">
+    <entry file="file://$PROJECT_DIR$/divdeconquerMaxSubArray/divideconquerMaxSubArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-533">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mostEffecientMaxSubArray/mostEffecientMaxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
         </state>
       </provider>
     </entry>
